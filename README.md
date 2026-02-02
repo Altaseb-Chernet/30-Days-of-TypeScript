@@ -1,3 +1,5 @@
+![30 Days of TypeScript](./assets/TypeScript.png)
+
 # 30-Days-of-TypeScript
 
 Welcome to the **30 Days of TypeScript** course challenge! Whether you’re new to TypeScript or looking to strengthen your Javascript foundations, this repository is your go-to resource for mastering TypeScript through daily hands-on exercises.
