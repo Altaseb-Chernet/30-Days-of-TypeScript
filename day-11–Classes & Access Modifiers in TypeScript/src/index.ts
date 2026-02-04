@@ -209,3 +209,24 @@ class Invoice implements Printable {
 
 const invoice = new Invoice();
 invoice.print();
+
+class Report implements Printable {
+  print() {
+    console.log("Printing report...");
+  }
+}
+
+const report = new Report();
+report.print();
+
+
+// This concludes the demonstration of classes and access modifiers in TypeScript. Each concept is crucial for building robust and maintainable applications.
+// Understanding how to use classes effectively will help you structure your code better and leverage the full power of TypeScript's type system.
+class Logger {
+  static log(message: string) {
+    console.log(`[LOG]: ${message}`);
+  }   
+}
+
+Logger.log("This is a static log message.");
+// Output: [LOG]: This is a static log message.

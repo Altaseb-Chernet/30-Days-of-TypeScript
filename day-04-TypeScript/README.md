@@ -1,5 +1,4 @@
 
-
 # 📘 Day 04 – Objects & Type Aliases in TypeScript
 
 

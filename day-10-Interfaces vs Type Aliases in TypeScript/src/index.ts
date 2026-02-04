@@ -146,3 +146,14 @@ const apiResponse: ApiResponse<{ id: number; name: string }> = {
 };
 
 console.log(apiResponse.data.name); // Output: Altaseb
+
+//---------------------------
+// Additional Concepts: Classes & Access Modifiers
+//---------------------------
+
+console.log("\n--- Additional Concepts: Classes & Access Modifiers ---\n");
+console.log("Refer to day-11 for detailed examples on classes and access modifiers.");
+
+//---------------------------
+// Note: The above code demonstrates the core concepts of interfaces and type aliases in TypeScript. 
+// For a deeper dive into classes and access modifiers, please refer to the next day's content.

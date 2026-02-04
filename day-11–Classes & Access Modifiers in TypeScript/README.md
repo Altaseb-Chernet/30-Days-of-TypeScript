@@ -2,7 +2,6 @@
 # 📘 Day 11 – Classes & Access Modifiers in TypeScript
 
 >
-
 Classes are a core feature of TypeScript and JavaScript.
 TypeScript extends classes with **static typing**, **access modifiers**, **abstract classes**, **parameter properties**, and **readonly enforcement**, making object-oriented programming safer and more expressive.
 

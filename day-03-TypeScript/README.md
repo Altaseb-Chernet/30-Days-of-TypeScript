@@ -1,7 +1,3 @@
-Perfect.
-Below is **Day 03**, written in the same **professional README style**, consistent with Day 01 and Day 02, structured for a public GitHub repository.
-
----
 
 # 📘 Day 03 – Arrays and Tuples
 

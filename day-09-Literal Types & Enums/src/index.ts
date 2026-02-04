@@ -190,6 +190,10 @@ function startMoving(dir: Direction, speed: Speed, indicator: DirectionEnum) {
 startMoving("left", "medium", DirectionEnum.Left);
 startMoving("up", "fast", DirectionEnum.Up);
 
+// startMoving("down", "superfast", DirectionEnum.Down); // ❌ Error: "superfast" not allowed
+// startMoving("down", "fast", "DOWN"); // ❌ Error: "DOWN" is not a valid DirectionEnum value
+
+
 /* ---------------------------------------------------
    End of Day 09 – Literal Types & Enums
 ---------------------------------------------------- */
