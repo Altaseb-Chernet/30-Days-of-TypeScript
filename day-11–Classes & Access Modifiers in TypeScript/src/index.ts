@@ -39,7 +39,7 @@ class User {
   }
 }
 
-const user = new User("Altaseb", 25);
+const user = new User("Altaseb", 20);
 user.greet();
 
 /* ---------------------------
