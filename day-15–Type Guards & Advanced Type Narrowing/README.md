@@ -92,6 +92,7 @@ function operate(vehicle: Car | Boat) {
 }
 ```
 
+
 📌 Perfect for API responses and union objects.
 
 ---
